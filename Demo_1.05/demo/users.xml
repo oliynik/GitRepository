@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<people>
+	<person id="1">
+		<login>UserForDemo</login>
+		<password>Passw0rd</password>
+	</person>
+	<person id="2">
+		<login>FakeUser</login>
+		<password>Passw0rd</password>
+	</person>
+</people>

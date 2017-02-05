@@ -1,0 +1,8 @@
+taskfordemo\demo\MailBoxPage.class
+taskfordemo\demo\MainPage.class
+utilities\LetterBuilder.class
+taskfordemo\demo\PasportUaPage.class
+utilities\XmlParser.class
+utilities\Config.class
+utilities\Driver.class
+taskfordemo\demo\EmailPage.class

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48739" started-at="2017-02-05T10:55:00Z" finished-at="2017-02-05T10:55:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48739" started-at="2017-02-05T10:55:00Z" finished-at="2017-02-05T10:55:49Z">
+      <class name="taskfordemo.demo.BaseTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="setUp" is-config="true" duration-ms="5274" started-at="2017-02-05T12:55:00Z" finished-at="2017-02-05T12:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="logInOutTest()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="logInOutTest" duration-ms="14615" started-at="2017-02-05T12:55:06Z" finished-at="2017-02-05T12:55:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logInOutTest -->
+        <test-method status="PASS" signature="FailedLogInTest()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="FailedLogInTest" duration-ms="3555" started-at="2017-02-05T12:55:20Z" finished-at="2017-02-05T12:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FailedLogInTest -->
+        <test-method status="PASS" signature="InboxTest()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="InboxTest" duration-ms="10805" started-at="2017-02-05T12:55:24Z" finished-at="2017-02-05T12:55:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InboxTest -->
+        <test-method status="PASS" signature="SendMessageTest()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="SendMessageTest" duration-ms="12066" started-at="2017-02-05T12:55:35Z" finished-at="2017-02-05T12:55:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessageTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:taskfordemo.demo.BaseTests@4edc67]" name="close" is-config="true" duration-ms="2374" started-at="2017-02-05T12:55:47Z" finished-at="2017-02-05T12:55:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- taskfordemo.demo.BaseTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
